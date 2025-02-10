@@ -1,0 +1,16 @@
+body{
+    background-color: pink;
+}
+    
+h3{
+    text-align: center;
+    font-size: large;
+    color: blueviolet;
+    font-style: oblique;
+}
+
+h2 img{
+    width: 40%;
+    margin-left: 30%;
+}
+
